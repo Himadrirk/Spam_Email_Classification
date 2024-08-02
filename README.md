@@ -27,5 +27,5 @@ The project involves the following steps:
 <u>6. Model Testing:</u>
 '-'  Validate the model on unseen data to ensure its generalizability.
 
-**Conclusion**
+# **Conclusion**
 The spam email classification project demonstrates the effectiveness of machine learning in identifying spam emails. By leveraging the SPAM E-mail Database, the project showcases the steps involved in preprocessing, analyzing, and modeling data for accurate email classification. The final model can be integrated into email systems to filter out spam and enhance email security.
